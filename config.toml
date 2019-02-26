@@ -1,0 +1,135 @@
+# baseurl = "https://agustrionopj.github.io"
+baseurl = "/"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "agustrionopj"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+disqusShortname = "agustrionopj"
+googleAnalytics = "UA-134167038-1"
+
+[Params]
+  homeTitle = "Hi! I'm PJ" # Set a different text for the header on the home page
+  subtitle = "astronomer/photographer"
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+ src = "img/home/ic1396.jpg"
+ desc = "IC1396 (Elephant Trunk Nebula)"
+[[Params.bigimg]]
+ src = "img/home/leiden.jpg"
+ desc = "Leiden, Netherlands"
+ # position: see values of CSS background-position.
+ position = "center top"
+[[Params.bigimg]]
+ src = "img/home/leiden2.jpg"
+ desc = "Leiden, Netherlands"
+[[Params.bigimg]]
+  src = "img/home/amfoang.jpg"
+  desc = "Amfoang Tengah, East Nusa Tenggara, Indonesia"
+[[Params.bigimg]]
+  src = "img/home/bali.jpg"
+  desc = "Padang Beach, Bali, Indonesia"
+[[Params.bigimg]]
+  src = "img/home/padang.jpg"
+  desc = "Padang, West Sumatera, Indonesia"
+[[Params.bigimg]]
+  src = "img/home/uluwatu.jpg"
+  desc = "Uluwatu, Bali, Indonesia"
+[[Params.bigimg]]
+  src = "img/home/kupang.jpg"
+  desc = "Kupang, East Nusa Tenggara, Indonesia"
+[[Params.bigimg]]
+  src = "img/home/utrecht.JPG"
+  desc = "Utrecht, Netherlands"
+[[Params.bigimg]]
+  src = "img/home/gunma.JPG"
+  desc = "Gunma, Japan"
+
+
+[Author]
+  name = "pj"
+  # website = "yourwebsite.com"
+  email = "agustriono.pj@gmail.com"
+  facebook = "agus.pj"
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "agustrionopj"
+  # gitlab = "username"
+  # bitbucket = "username"
+  twitter = "agustrionopj"
+  # reddit = "username"
+  # linkedin = "username"
+  # xing = "username"
+  # stackoverflow = "users/XXXXXXX/username"
+  # snapchat = "username"
+  instagram = "agustrionopj"
+  youtube = "c/agustrionopj" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # paypal = "username"
+  # telegram = "username"
+  # 500px = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = "blog"
+    weight = 1
+
+[[menu.main]]
+    name = "Research"
+    url = "page/research/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+# [[menu.main]]
+#     identifier = "samples"
+#     name = "Samples"
+#     weight = 2
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Big Image Sample"
+#     url = "blog/2017-03-07-bigimg-sample"
+#     weight = 1
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Math Sample"
+#     url = "blog/2017-03-05-math-sample"
+#     weight = 2
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Code Sample"
+#     url = "blog/2016-03-08-code-sample"
+#     weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
