@@ -4,7 +4,7 @@ subtitle: ... and why that's not quite matter
 comments: false
 ---
 
-My name is Agus Triono Puri Jatmiko. Quite mouthful, eh? but you can call me 'PJ' for short. I have things that I love most:
+My name is Agus Triono Puri Jatmiko. Quite mouthful, eh? but you can call me **PJ** for short. I have things that I love most:
 
 - _This_ Universe
 - Whichever Universes with Piano, Photography, and Python-thingy in them

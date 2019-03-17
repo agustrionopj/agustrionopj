@@ -1,5 +1,5 @@
-# baseurl = "https://agustrionopj.github.io"
-baseurl = "/"
+baseurl = "https://agustrionopj.github.io/"
+# baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "agustrionopj"
