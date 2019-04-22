@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on agustrionopj</title>
+    <link>https://agustrionopj.github.io/page/</link>
+    <description>Recent content in Pages on agustrionopj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
+    <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
+    
+	<atom:link href="https://agustrionopj.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://agustrionopj.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/page/about/</guid>
+      <description>My name is Agus Triono Puri Jatmiko. Quite mouthful, eh? but you can call me PJ for short. I have things that I love most:
+ This Universe Whichever Universes with Piano, Photography, and Python-thingy in them My little fam!  What else do you need?
+my story? To be honest, I&amp;rsquo;m just nobody. Only a puny human who want to know the mysteries of the Universe and really like to learn something new.</description>
+    </item>
+    
+    <item>
+      <title>Science!</title>
+      <link>https://agustrionopj.github.io/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/page/research/</guid>
+      <description>My research interests are broad. My recent works are about occultation and variable stars observation and data analysis. I am developing a python code to reduce and analyze lunar occultation&amp;rsquo;s light curves (and also other types of occulation e.g. asteroid occultation and planetary occultation). I also involve in exoplanet research project at Bosscha Observatory, Institut Teknologi Bandung, ID, as data analysis coordinator. You could see my assorted recent publications in this link.</description>
+    </item>
+    
+  </channel>
+</rss>

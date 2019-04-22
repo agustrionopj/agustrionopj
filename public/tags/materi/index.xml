@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materi on agustrionopj</title>
+    <link>https://agustrionopj.github.io/tags/materi/</link>
+    <description>Recent content in Materi on agustrionopj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
+    <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://agustrionopj.github.io/tags/materi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASTRO-Series Youtube Channel</title>
+      <link>https://agustrionopj.github.io/blog/2018-05-01-astroseries/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/2018-05-01-astroseries/</guid>
+      <description>Hai,
+Kali ini saya mencoba media lain dalam upaya menyebarkan ilmu Astronomi, terutama kepada teman-teman yang mungkin belum memiliki kesempatan belajar ataupun yang merasa kurang mendapatkan informasi Astronomi dalam bahasa Indonesia. Saat pembuatan rangkaian video ini, saya menganggap bahwa para audience sudah mengenal konsep Matematika dasar dan Fisika dasar, sehingga durasi video yang saya unggah nantinya bisa dibatasi maksimum di kisaran 30 menit. Feel free to distribute them, selamat belajar, jangan lupa like dan subscribe yaa :D</description>
+    </item>
+    
+  </channel>
+</rss>

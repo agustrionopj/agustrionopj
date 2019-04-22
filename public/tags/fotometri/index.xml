@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotometri on agustrionopj</title>
+    <link>https://agustrionopj.github.io/tags/fotometri/</link>
+    <description>Recent content in Fotometri on agustrionopj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
+    <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
+    <lastBuildDate>Fri, 20 Oct 2017 10:23:15 +0700</lastBuildDate>
+    
+	<atom:link href="https://agustrionopj.github.io/tags/fotometri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workflow olah data fotometri dengan IRAF/PyRAF</title>
+      <link>https://agustrionopj.github.io/blog/20171020-iraf/</link>
+      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/20171020-iraf/</guid>
+      <description>Catatan: diasumsikan para pembaca familiar dengan unix/linux dan konsep dasar fotometri. Catatan ini juga bersifat subyektif dan mungkin bukan cara terbaik. Cara yang saya tuliskan adalah yang bekerja sesuai keperluan saya.
+Fotometri, secara umum bisa dikatakan sebagai sebuah metode dalam mengukur intensitas cahaya sebuah bintang. Skala terang yang diukur ini disebut sebagai magnitudo. Uniknya, skala magnitudo ini tidaklah intuitif seperti dalam kebiasaan kita sehari-hari, yakni semakin besar angka magnitudo, semakin redup bintang itu.</description>
+    </item>
+    
+  </channel>
+</rss>

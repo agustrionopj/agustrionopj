@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on agustrionopj</title>
+    <link>https://agustrionopj.github.io/tags/game/</link>
+    <description>Recent content in Game on agustrionopj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
+    <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
+    <lastBuildDate>Thu, 12 Oct 2017 13:13:54 +0700</lastBuildDate>
+    
+	<atom:link href="https://agustrionopj.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kerbal Space Program: Rendezvous Problem</title>
+      <link>https://agustrionopj.github.io/blog/20171012-ksp/</link>
+      <pubDate>Thu, 12 Oct 2017 13:13:54 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/20171012-ksp/</guid>
+      <description>Semenjak setahun terakhir, saya tertarik dengan suatu game yang berjudul Kerbal Space Program (KSP) yang merupakan game simulasi peluncuran wahana ruang angkasa. Game ini sangat adiktif dan menguji kesabaran karena kita diharuskan merancang suatu wahana dan meluncurkannya dengan selamat ke luar angkasa (atau ke planet lain, bergantung misi yang diambil). Game ini mengambil lokasi di sebuah sistem bintang hipotetis yaitu Kerbol System, yang merupakan representasi unik dari tata surya kita sendiri.</description>
+    </item>
+    
+  </channel>
+</rss>
