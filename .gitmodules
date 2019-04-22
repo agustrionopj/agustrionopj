@@ -1,8 +1,0 @@
-[submodule "agustrionopj.github.io"]
-	path = agustrionopj.github.io
-	url = https://github.com/agustrionopj/agustrionopj.github.io.git
-	branch = master
-[submodule "public"]
-	path = public
-	url = https://github.com/agustrionopj/agustrionopj.github.io.git
-	branch = master
